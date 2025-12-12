@@ -37,7 +37,7 @@ Hi, I'm **Michael Gledhill**, Cadet Commander at Civil Air Patrol's Heartland Co
 | Project | Description | Link |
 |---------|-------------|------|
 | Photo Metadata App | Extract and organize photo metadata with an intuitive interface | [View](https://github.com/michael6gledhill/Photo_Metadata_App_By_Gledhill) |
-| Project 2 | Description | [View](#) |
+| CyberPatriot Runbook | Cybersecurity operations and hardening procedures | [View](https://github.com/michael6gledhill/cyberpatriot-runbook) |
 | Project 3 | Description | [View](#) |
 
 ---
