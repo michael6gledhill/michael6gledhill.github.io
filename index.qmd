@@ -7,7 +7,7 @@ subtitle: "Leadership • Aviation • Technical Problem-Solving"
 
 :::{.g-col-12 .g-col-md-4}
 
-![](/Images/profile.jpg){.img-fluid .rounded-circle style="max-width: 250px;"}
+![](Images/profile.jpg){.img-fluid .rounded-circle style="max-width: 350px;"}
 
 ### Quick Links
 
