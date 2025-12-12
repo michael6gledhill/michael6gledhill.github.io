@@ -76,37 +76,29 @@ Motivated Civil Air Patrol cadet leader with demonstrated expertise in leadershi
 
 | Award / Ribbon / Badge | Description |
 |------------------------|-------------|
-| Achievement Ribbon (2×) | Awarded for CyberPatriot leadership and Encampment staff service. |
-| Encampment Ribbon (3×) | Earned through participation in three encampments. |
-| NCSA Ribbon (3×) | Awarded for attending three National Cadet Special Activities. |
-| Recruiter Ribbon | Recognized for contributing to squadron recruitment and growth. |
-| Community Service Ribbon (2×) | Earned for sustained service in community emergency preparedness programs. |
-| Rocketry Badge | Awarded for successful completion of CAP rocketry certification program. |
-| STEM Badge | Recognized for aerospace and STEM project achievement. |
-| Powered Solo Wings | Earned for completing a solo flight in a powered aircraft. |
-| Search and Rescue "Find" | Credited for participation in a Search and Rescue mission that resulted in an operational successful outcome. |
-| AFA Cadet of the Year | Selected for outstanding performance, professionalism, and leadership impact. |
+| Achievement Ribbon (2×) | CyberPatriot leadership & encampment staff |
+| Encampment Ribbon (3×) | Participation in three encampments |
+| NCSA Ribbon (3×) | Attendance in three National Cadet Special Activities |
+| Recruiter Ribbon | Contributed to squadron growth |
+| Community Service Ribbon (2×) | Service in community preparedness programs |
+| Rocketry Badge | CAP rocketry certification |
+| STEM Badge | Aerospace/STEM project recognition |
+| Powered Solo Wings | Solo flight in a powered aircraft |
+| Search & Rescue "Find" | Successful participation in a SAR mission |
+| AFA Cadet of the Year | Outstanding performance, professionalism, leadership |
 
 ---
 
 ## Leadership Experience
 
-**Civil Air Patrol Member** | June 2023–Present
+**Civil Air Patrol Member | June 2023–Present**
 
-Advanced rapidly through ranks; earned honor credit through the Mitchell Award. On track for promotion to Cadet Colonel.
+**Current Role:** [Cadet Commander](CAP_Projects/positions_held.qmd#cadet-commander)
 
-### Current Role: Cadet Commander
-- Lead and mentor 30+ cadets in leadership development and mission readiness
-- Oversee weekly operations for 30–50 participants
-- Coordinate training programs, instruction, safety protocols, and logistics
-- Maintain mission-focused culture aligned with CAP core values
+Lead and mentor 30+ cadets; oversee leadership development and mission readiness. Manage weekly operations for 30–50 participants. Coordinate training, safety, instruction, and logistics. Maintain CAP core values and mission-focused culture.
 
-### Previous Roles Held
-- Flight Commander
-- Public Affairs Officer
-- Aerospace & Communications NCO
-- Assistant Safety NCO
-- CAC Representative (Group & Wing levels)
+**Previous Roles:**
+[Flight Commander](CAP_Projects/positions_held.qmd#flight-commander) | [Public Affairs Officer](CAP_Projects/positions_held.qmd#public-affairs-officer-pao) | [Aerospace & Communications NCO](CAP_Projects/positions_held.qmd#aerospace--communications-nco) | [Assistant Safety NCO](CAP_Projects/positions_held.qmd#assistant-safety-nco) | [CAC Representative](CAP_Projects/positions_held.qmd#cadet-advisory-council-cac-representative)
 
 ---
 
@@ -114,55 +106,56 @@ Advanced rapidly through ranks; earned honor credit through the Mitchell Award. 
 
 | Activity | Role | Location | Year |
 |----------|------|----------|------|
-| Summer Encampment | ATS Flight Commander | Ohio Wing | 2025 |
-| Encampment | Cadet Training Officer & PAO | Kentucky Wing | 2025 |
-| Winter Encampment | Graduate | Florida Wing | 2024 |
+| [Summer Encampment](CAP_Projects/encampments.qmd#3-ohio-wing-summer-encampment) | ATS Flight Commander | Ohio Wing | 2025 |
+| [Encampment](CAP_Projects/encampments.qmd#2-kentucky-wing-encampment) | Cadet Training Officer & PAO | Kentucky Wing | 2025 |
+| [Winter Encampment](CAP_Projects/encampments.qmd#1-florida-wing-winter-encampment) | Graduate | Florida Wing | 2024 |
 
 ---
 
-## National Cadet Special Activities
+## National Cadet Special Activities (NCSAs)
 
 | Activity | Location | Year | Notes |
 |----------|----------|------|-------|
-| Power Flight Academy | Fremont, Nebraska | 2025 | Logged 9 hours; completed solo flight |
-| Aircraft Manufacturing Academy | Wichita, Kansas | 2025 | Aerospace manufacturing and systems |
-| SUPT-FC (Specialized Undergraduate Pilot Training) | Columbus AFB, Mississippi | 2025 | Learned how to fly the T-6 |
+| [Power Flight Academy](CAP_Projects/national_cadet_special_activities.qmd#1-national-power-flight-academy) | Fremont, NE | 2025 | 9 hours flight; solo certification |
+| [Aircraft Manufacturing Academy](CAP_Projects/national_cadet_special_activities.qmd#2-aircraft-manufacturing-academy) | Wichita, KS | 2025 | Aerospace systems & manufacturing |
+| [SUPT-FC](CAP_Projects/national_cadet_special_activities.qmd#3-specialized-undergraduate-pilot-training-supt) | Columbus AFB, MS | 2025 | Selected; attendance deferred |
+| National Blue Beret | National | TBD | Training program |
+| CyberPatriot Academy | Various | 2023–2025 | Advanced cyber defense training |
 
 
 ---
 
 ## Aviation Experience
 
-### Flight Training
 - **Sporty's Online Ground School:** Completed
-- **CAP Orientation Flights:** 3 flights (front and rear seats)
-- **Power Flight Academy:** 9+ hours total flight time, including solo flight certification
+- **CAP Orientation Flights:** 3 flights (front/back seats)
+- **Power Flight Academy:** 9+ hours, including solo flight
 - **Powered Solo Wings:** Earned
 
-### Flight Goals
-- Complete Private Pilot Certificate
-- Pursue U.S. Air Force pilot training pipeline
+**Goals:** Complete Private Pilot Certificate; pursue U.S. Air Force pilot training
 
 ---
 
 ## Education
 
 | Category | Details |
-|----------|---------|
-| Academic Status | Homeschooled with dual enrollment at local college |
-| College Credits | 12 credits completed |
+|----------|--------|
+| Academic Status | Homeschooled with dual enrollment |
+| College Credits | 12 completed |
 | GPA | **4.0** (unweighted) |
 | Math Coursework | Pre-Algebra, Algebra I & II, Geometry, Business Math |
-| Current Age | 17 |
+| Age | 17 |
 
 ---
 
 ## Career Goals
 
-Serve as a **U.S. Air Force Pilot**. Long-term interests include:
+**Serve as a U.S. Air Force Pilot**
+
+Long-term interests:
 - Commercial aviation operations
-- Aircraft systems and maintenance engineering
-- Aerospace leadership and command
+- Aircraft systems & maintenance engineering
+- Aerospace leadership & command
 
 ---
 
