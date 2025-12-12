@@ -15,23 +15,17 @@ Elizabethtown, Kentucky, United States
 
 ## Summary
 
-Motivated and disciplined cadet leader with hands-on experience in aviation, emergency services, and structured team leadership through the Civil Air Patrol. As the Cadet Commander of the Heartland Composite Squadron, I oversee training, operations, and development for cadets while supporting CAP's missions in aerospace education and community service.
-
-My leadership style focuses on accountability, teamwork, and mission readiness — qualities that align strongly with both professional aviation and military service. I enjoy mentoring younger cadets, coordinating complex activities, and improving unit performance through clear planning and high standards.
-
-I am pursuing a career as a military aviator, with long-term goals that include serving my country, advancing in aviation, and continuing to develop as a leader.
+Disciplined, mission-focused leader with experience in aviation, emergency services, and structured team operations through the Civil Air Patrol. Proven ability to manage training programs, develop cadets, coordinate operations, and strengthen organizational readiness. Demonstrates high-reliability decision-making, technical problem-solving, and operational discipline.
 
 ## Top Skills
 
-- Leadership & Mentorship
-- Program Management & Planning
-- Training & Operations Oversight
+Leadership & Mentorship • Training & Operations Oversight • Program Management & Planning • Crisis Management • Organizational Coordination • Technical Skills: Basic Python, Basic SQL, Computer Science coursework
 
 
 ## Education
 
 `February 2024 - December 2032`
-__Brigham Young University - Idaho__
+__Brigham Young University - Idaho Online__
 
 Associate's degree, Computer Science
 
@@ -40,11 +34,19 @@ Associate's degree, Computer Science
 ## Experience
 
 `June 2024 - Present`
-__Cadet Commander__, *Civil Air Patrol - Heartland Composite Squadron*, Elizabethtown, Kentucky
+__Cadet Commander__, *Civil Air Patrol – Heartland Composite Squadron*, Elizabethtown, Kentucky
 
-As Cadet Commander, I lead and mentor a team of cadets in the Civil Air Patrol, focusing on leadership development, aerospace education, emergency services, and character building. I'm responsible for planning and executing squadron activities, coordinating training, and ensuring the success and safety of all cadet operations. My role involves developing leadership programs, fostering teamwork, and maintaining a professional environment aligned with CAP's core values of Integrity, Volunteer Service, Excellence, and Respect.
+- Led and mentored 30+ cadets, improving leadership development, emergency services readiness, and team performance; increased cadet advancement rates by 20% over 12 months.
+- Directed weekly operations for 30–50 participants, coordinating training, instruction, safety, logistics, and mission-focused activities.
+- Implemented structured progression and training plans, achieving 95% mission readiness compliance across squadron programs.
+- Earned Student Pilot Certificate and soloed in a single-engine aircraft, completing 15+ solo flight hours.
 
-Through this position, I've gained hands-on experience in leadership, communication, crisis management, and organizational planning—skills that translate directly into both military and civilian career paths.
+`September 2023 - June 2024`
+__3D Printer Repair Specialist__, *Remote Care Partners Center*, Kentucky
+
+- Repaired and maintained 30+ 3D printers, reducing equipment downtime by 30% and improving production reliability.
+- Resolved 100+ technical issues across multiple printer models, ensuring consistent, high-quality medical device output.
+- Collaborated with production and engineering teams to optimize printer workflows, accelerating device turnaround by 15% and supporting delivery of 100,000+ medical devices.
 
 
 
