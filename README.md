@@ -1,18 +1,39 @@
-# BYUI DS Portfolio Template
-## Building a Quarto Portfolo
+# Michael Gledhill's Portfolio
 
-A template for a portfolio developed with Quarto and hosted on GitHub.
+Welcome to my professional portfolio showcasing my leadership experience, technical skills, and aviation background.
 
-This is all configured so you only need to edit the source files in Quarto (.qmd). The website is generated and hosted automatically by GitHub.
+## About Me
 
-## Using this template
+I'm **Michael Gledhill**, a disciplined, mission-focused leader with hands-on experience in:
+- **Leadership:** Cadet Commander at Civil Air Patrol's Heartland Composite Squadron
+- **Technical Skills:** 3D printer repair specialist, Python, SQL, Computer Science coursework
+- **Aviation:** Certified Student Pilot with 15+ solo flight hours
 
-1. Click on green button "Use this Tempalte" -> "Create a new Repo"
+## Visit My Portfolio
 
-1. Choose a name for your repository
+**[View My Full Portfolio](https://michael6gledhill.github.io/)**
 
-1. Important: check 'Include all branches' when creating the repository (because we will need the gh-pages branch to host the website).
+## Key Pages
 
-1. Once your repo is created, remember to update the links to your GitHub repo in _quarto.yml, replacing every instance 'your_name'.
+- **[Resume](/resume.html)** - Detailed professional experience and education
+- **[About Me](/)** - 30-second elevator pitch and quick links
+- **[Projects](/exploration.html)** - Portfolio projects and case studies
 
-1. The first time you publish to your repo use this command line string `quarto publish gh-pages` in the vs code terminal.
+## Connect With Me
+
+- **Email:** michael6gledhill@gmail.com
+- **Phone:** 2707741565
+- **LinkedIn:** [michael-gledhill-65a153389](https://www.linkedin.com/in/michael-gledhill-65a153389)
+- **GitHub:** [michael6gledhill](https://github.com/michael6gledhill)
+
+## What's Inside
+
+This portfolio features:
+- Professional resume and background
+- Leadership and operational experience
+- Technical project portfolio
+- Hands-on aviation experience
+
+---
+
+*Built with Quarto and hosted on GitHub*
