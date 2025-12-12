@@ -51,22 +51,22 @@ website:
       background: light
       contents:
         - text: "Civil Air Patrol"
-          file: cleansing.qmd
+          file: civil_air_patrol.qmd
         - text: "---"
         - text: "Project 1"
-          file: Cleansing_Projects/project1.qmd
+          file: Civil_Air_Patrol_Projects/project1.qmd
         - text: "---"
         - text: "Project 2"
-          file: Cleansing_Projects/project2.qmd
+          file: Civil_Air_Patrol_Projects/project2.qmd
         - text: "---"
         - text: "Project 3"
-          file: Cleansing_Projects/project3.qmd
+          file: Civil_Air_Patrol_Projects/project3.qmd
         - text: "---"
         - text: "Project 4"
-          file: Cleansing_Projects/project4.qmd
+          file: Civil_Air_Patrol_Projects/project4.qmd
         - text: "---"
         - text: "Project 5"
-          file: Cleansing_Projects/project5.qmd
+          file: Civil_Air_Patrol_Projects/project5.qmd
         - text: "---"
     - title: "Data Exploration"
       style: "docked"
