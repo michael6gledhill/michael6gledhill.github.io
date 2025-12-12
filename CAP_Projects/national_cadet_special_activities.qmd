@@ -3,77 +3,140 @@ title: "National Cadet Special Activities (NCSAs)"
 subtitle: "Advanced Training & Aerospace Excellence"
 ---
 
-::: {style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; padding: 20px; border-radius: 8px; margin-bottom: 20px;"}
-**5 National Cadet Special Activities • Advanced training across aviation, aerospace engineering, and pilot operations • Competitive selection from national pool**
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.1) 0%, rgba(42,82,152,0.1) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); color: #1e3c72; padding: 30px; border-radius: 16px; margin-bottom: 30px; box-shadow: 0 8px 32px rgba(30,60,114,0.1);"}
+## 5 National Cadet Special Activities
+
+**Advanced training • Aviation, aerospace engineering, cybersecurity • Competitive national selection**
 :::
 
----
+------------------------------------------------------------------------
 
-## National Power Flight Academy {style="color: #1e3c72; border-bottom: 3px solid #1e3c72; padding-bottom: 8px;"}
+::::::::::::: grid
+:::: {.g-col-12 style="margin-bottom: 20px;"}
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 24px; box-shadow: 0 4px 24px rgba(30,60,114,0.08);"}
+### National Power Flight Academy
 
-**2024 | Fremont, Nebraska | 9 flight hours | Solo Wings Certified**
+**2024 \| Fremont, Nebraska**\
+*9 Flight Hours • Solo Wings Certified*
 
-Flight training with comprehensive aerodynamics & aircraft systems instruction. Completed solo flight; hands-on pre-flight checks, takeoff, landing procedures. Advanced Private Pilot Certificate pathway.
+Comprehensive flight training in aerodynamics and aircraft systems. Completed solo flight with hands-on pre-flight checks, takeoff, landing procedures. Direct pathway toward Private Pilot Certificate with demonstrated proficiency in aircraft handling and decision-making under instruction.
+:::
+::::
 
----
+:::: {.g-col-12 style="margin-bottom: 20px;"}
+::: {style="background: linear-gradient(135deg, rgba(42,82,152,0.08) 0%, rgba(58,102,172,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(42,82,152,0.2); border-radius: 12px; padding: 24px; box-shadow: 0 4px 24px rgba(42,82,152,0.08);"}
+### Aircraft Manufacturing Academy
 
-## Aircraft Manufacturing Academy {style="color: #2a5298; border-bottom: 3px solid #2a5298; padding-bottom: 8px;"}
+**2025 \| Wichita, Kansas**\
+*Aerospace Manufacturing & Engineering*
 
-**2025 | Wichita, Kansas | Aerospace Manufacturing Focus**
+Specialized training in aircraft systems, manufacturing processes, and aerospace engineering. Hands-on technical projects exploring production workflows and assembly techniques. Manufacturing facility tours with aerospace engineering professionals. Broadened career perspective to include engineering and manufacturing roles.
+:::
+::::
 
-Specialized systems training • Production workflows & assembly techniques • Manufacturing facility tours • Aerospace engineering from industry professionals • Broadened career perspective to engineering/manufacturing roles in aerospace.
+:::: {.g-col-12 style="margin-bottom: 20px;"}
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 24px; box-shadow: 0 4px 24px rgba(30,60,114,0.08);"}
+### Specialized Undergraduate Pilot Training (SUPT-FC)
 
----
+**2025 \| Columbus Air Force Base, Mississippi**\
+*Competitive National Selection*
 
-## Specialized Undergraduate Pilot Training (SUPT-FC) {style="color: #1e3c72; border-bottom: 3px solid #1e3c72; padding-bottom: 8px;"}
+Selected from competitive national pool for advanced pilot training at active U.S. Air Force base. Direct exposure to U.S. Air Force pilot operations and advanced flight systems. Networked with Air Force pilots and experienced active-duty military culture. Reinforced commitment to U.S. Air Force pilot career pathway.
+:::
+::::
 
-**2025 | Columbus Air Force Base, Mississippi | Competitive National Selection**
+:::: {.g-col-12 style="margin-bottom: 20px;"}
+::: {style="background: linear-gradient(135deg, rgba(42,82,152,0.08) 0%, rgba(58,102,172,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(42,82,152,0.2); border-radius: 12px; padding: 24px; box-shadow: 0 4px 24px rgba(42,82,152,0.08);"}
+### National Blue Beret
 
-Selected from national pool for advanced pilot training orientation • Direct exposure to active-duty U.S. Air Force pilot operations • Advanced flight systems & military procedures • Networked with Air Force pilots • Reinforced U.S. Air Force pilot career commitment.
+**TBD \| Leadership & Executive Development**\
+*Advanced National Program*
 
----
+Advanced national leadership program focused on executive decision-making in military context. Networking opportunities with top cadet leaders nationwide. Prepares cadets for senior leadership roles within Civil Air Patrol and military service.
+:::
+::::
 
-## National Blue Beret {style="color: #2a5298; border-bottom: 3px solid #2a5298; padding-bottom: 8px;"}
+:::: {.g-col-12 style="margin-bottom: 20px;"}
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.08) 0%, rgba(42,82,152,0.08) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.2); border-radius: 12px; padding: 24px; box-shadow: 0 4px 24px rgba(30,60,114,0.08);"}
+### CyberPatriot Academy
 
-**TBD | Leadership & Executive Development**
+**2023–2025 \| Advanced Cyber Defense**\
+*Multi-Year Program*
 
-Advanced national leadership program • Executive decision-making in military context • Networking with top cadet leaders nationwide.
+Multi-year advanced cybersecurity program covering systems security hardening and network defense strategies. Cyber defense competition preparation with hands-on defense exercises. Competitive edge in CyberPatriot competitions and national cyber security standing.
+:::
+::::
+:::::::::::::
 
----
-
-## CyberPatriot Academy {style="color: #1e3c72; border-bottom: 3px solid #1e3c72; padding-bottom: 8px;"}
-
-**2023–2025 | Advanced Cyber Defense Training**
-
-Multi-year advanced cybersecurity program • Cyber defense competition preparation • Systems security hardening • Network defense strategies • Competitive edge in CyberPatriot competitions.
-
----
+------------------------------------------------------------------------
 
 ## Core Competencies Developed
 
-::::: {.grid}
-
-:::: {.g-col-12 .g-col-md-4 style="background: #f0f4f8; padding: 15px; border-left: 4px solid #1e3c72; margin-bottom: 10px;"}
+::::::::::: grid
+:::: {.g-col-12 .g-col-md-6 .g-col-lg-3 style="margin-bottom: 16px;"}
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.12) 0%, rgba(42,82,152,0.12) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.25); border-radius: 12px; padding: 20px; text-align: center; box-shadow: 0 4px 16px rgba(30,60,114,0.08);"}
 **Aviation & Operations**
-• Aircraft systems & procedures
-• Flight operations • Solo certification
+
+Aircraft systems • Flight operations • Solo certification
+:::
 ::::
 
-:::: {.g-col-12 .g-col-md-4 style="background: #f0f4f8; padding: 15px; border-left: 4px solid #2a5298; margin-bottom: 10px;"}
+:::: {.g-col-12 .g-col-md-6 .g-col-lg-3 style="margin-bottom: 16px;"}
+::: {style="background: linear-gradient(135deg, rgba(42,82,152,0.12) 0%, rgba(58,102,172,0.12) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(42,82,152,0.25); border-radius: 12px; padding: 20px; text-align: center; box-shadow: 0 4px 16px rgba(42,82,152,0.08);"}
 **Technical Engineering**
-• Manufacturing processes
-• Aerospace design • Systems architecture
+
+Manufacturing processes • Aerospace design • Systems architecture
+:::
 ::::
 
-:::: {.g-col-12 .g-col-md-4 style="background: #f0f4f8; padding: 15px; border-left: 4px solid #1e3c72; margin-bottom: 10px;"}
+:::: {.g-col-12 .g-col-md-6 .g-col-lg-3 style="margin-bottom: 16px;"}
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.12) 0%, rgba(42,82,152,0.12) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.25); border-radius: 12px; padding: 20px; text-align: center; box-shadow: 0 4px 16px rgba(30,60,114,0.08);"}
 **Cyber & Security**
-• Systems hardening
-• Network defense • Defense strategies
+
+Systems hardening • Network defense • Defense strategies
+:::
 ::::
 
-:::::
+:::: {.g-col-12 .g-col-md-6 .g-col-lg-3 style="margin-bottom: 16px;"}
+::: {style="background: linear-gradient(135deg, rgba(42,82,152,0.12) 0%, rgba(58,102,172,0.12) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(42,82,152,0.25); border-radius: 12px; padding: 20px; text-align: center; box-shadow: 0 4px 16px rgba(42,82,152,0.08);"}
+**Military Readiness**
 
----
+U.S. Air Force ops • Leadership development • Career clarity
+:::
+::::
+:::::::::::
+
+------------------------------------------------------------------------
+
+## Impact Summary
+
+::: {style="background: linear-gradient(135deg, rgba(30,60,114,0.06) 0%, rgba(42,82,152,0.06) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(30,60,114,0.15); border-radius: 12px; padding: 24px; box-shadow: 0 4px 16px rgba(30,60,114,0.06);"}
+**Aviation Excellence**: 9 flight hours accumulated • Solo Wings certified • Private Pilot pathway established
+
+**Aerospace Engineering**: Manufacturing processes mastery • Industry connections • Expanded career vision
+
+**Cybersecurity Leadership**: Competition-ready defense skills • National-level training • Competitive differentiation
+
+**Military Career Pathway**: U.S. Air Force operations exposure • Leadership at national level • Pilot career pathway clarity
+:::
+
+## Core Competencies Developed
+
+:::::: grid
+::: {.g-col-12 .g-col-md-4 style="background: #f0f4f8; padding: 15px; border-left: 4px solid #1e3c72; margin-bottom: 10px;"}
+**Aviation & Operations** • Aircraft systems & procedures • Flight operations • Solo certification
+:::
+
+::: {.g-col-12 .g-col-md-4 style="background: #f0f4f8; padding: 15px; border-left: 4px solid #2a5298; margin-bottom: 10px;"}
+**Technical Engineering** • Manufacturing processes • Aerospace design • Systems architecture
+:::
+
+::: {.g-col-12 .g-col-md-4 style="background: #f0f4f8; padding: 15px; border-left: 4px solid #1e3c72; margin-bottom: 10px;"}
+**Cyber & Security** • Systems hardening • Network defense • Defense strategies
+:::
+::::::
+
+------------------------------------------------------------------------
 
 ## Impact Summary
 
