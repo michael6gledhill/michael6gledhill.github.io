@@ -1,10 +1,147 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Civil Air Patrol"
+subtitle: "Leadership, Aviation & Aerospace Excellence"
 ---
 
-# Title 1 Header
-## Title 2 Header
+:::{.grid}
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+:::{.g-col-12 .g-col-md-3}
+
+![](Images/profile.jpg){.img-fluid .rounded-circle style="max-width: 200px; max-height: 200px; width: 200px; height: 200px; object-fit: cover;"}
+
+:::
+
+:::{.g-col-12 .g-col-md-9}
+
+# About My Civil Air Patrol Experience
+
+I have been a member of the Civil Air Patrol for two and a half years and currently serve as the **Cadet Commander** of the Heartland Composite Squadron. I hold the rank of **Cadet Captain**, and I advanced on time every two months all the way up through my current grade.
+
+I completed my basic encampment in Florida during the 2022–2023 cycle, and I have since attended a total of **three encampments and three National Cadet Special Activities**. My time in CAP has focused on leadership development, aviation, emergency services, and guiding cadets through structured, mission-driven training.
+
+:::
+
+:::
+
+---
+
+## Summary
+
+Motivated Civil Air Patrol cadet with strong leadership, cybersecurity, and aviation experience. Proven under pressure, highly driven, and committed to excellence. Passionate about aerospace, technology, and service. Aspires to become a U.S. Air Force pilot.
+
+---
+
+## Contact Information
+
+**Michael Gledhill** | Cadet Captain, Civil Air Patrol  
+906 Silktree Cir, Elizabethtown, KY 42701  
+📱 (502) 269-2525 | 📧 c_mgledhill@kywg.cap.gov
+
+---
+
+## Skills & Certifications
+
+**CyberPatriot:**  
+Team Captain; National Semifinalist (2023 & 2024)
+
+**CAP Certifications:**  
+GES, ICUT, SET, CERT*, MRO, MSA, UDF*, GTM3*
+
+**FEMA ICS:**  
+IS-100, 200, 368, 520, 700, 800
+
+---
+
+## Awards & Achievements
+
+- 2× Achievement Ribbons – CyberPatriot leadership & Encampment staff
+- 3× Encampment Ribbons, 3× NCSA Ribbons, Recruiter Ribbon, 2× Community Service Ribbons
+- Rocketry Badge, STEM Badge, Powered Solo Wings, Search and Rescue "Find"
+- AFA Cadet of the Year
+
+---
+
+## Leadership Experience
+
+**Civil Air Patrol Member** | Since June 2023
+
+Advanced quickly to C/Capt; earned honor credit through Mitchell Award. On track to be promoted to Captain on September 8.
+
+**Roles Held:**
+- Cadet Commander
+- Flight Commander
+- Public Affairs Officer
+- Aerospace & Communications NCO
+- Assistant Safety NCO
+- CAC Rep (Group & Wing)
+
+---
+
+## Encampment Experience
+
+- **ATS Flight Commander** – Ohio Wing Summer Encampment (2025)
+- **Cadet Training Officer & PAO** – Kentucky Wing Encampment (2025)
+- **Graduate** – Florida Winter Encampment (2024)
+
+---
+
+## National Activities
+
+- **Power Flight Academy (2025):** ~9 hours logged, including solo – Fremont, NE
+- **Aircraft Manufacturing Academy (2025)** – Wichita, KS
+- **SUPT-FC (2025)** – Columbus AFB, MS (Accepted–not able to attend)
+- **National Blue Beret**
+- **Multiple Cyber Academies**
+- **SUPT-FC - TX**
+
+---
+
+## Flight Experience
+
+- Sporty's Online Ground School completed
+- 3 CAP orientation flights (front/back seat)
+- Soloed at Power Flight Academy
+
+---
+
+## Education
+
+**Academic Status:** Homeschooled with dual enrollment (12 college credits, 4.0 GPA)
+
+**Math Completed:** Pre-Algebra, Algebra I & II, Geometry, Business Math
+
+**Age:** 17
+
+---
+
+## Career Goals
+
+Serve as a U.S. Air Force pilot. Interests include commercial aviation and aircraft systems or maintenance engineering.
+
+---
+
+## Photo Gallery
+
+:::{.grid}
+
+:::{.g-col-12 .g-col-md-6}
+![Civil Air Patrol Flight Operations](Images/cap1.jpg){.img-fluid}
+:::
+
+:::{.g-col-12 .g-col-md-6}
+![With CAP Pilot Instructor](Images/cap2.jpg){.img-fluid}
+:::
+
+:::{.g-col-12 .g-col-md-6}
+![Air Force Dress Uniform](Images/cap3.jpg){.img-fluid}
+:::
+
+:::{.g-col-12 .g-col-md-6}
+![Solo Flight Experience](Images/cap4.jpg){.img-fluid}
+:::
+
+:::{.g-col-12 .g-col-md-12}
+![Heartland Composite Squadron Team](Images/cap5.jpg){.img-fluid}
+:::
+
+:::
