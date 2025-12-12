@@ -1,56 +1,70 @@
 ---
 layout: cv
+title: Michael Gledhill
 ---
 
-# Michael Gledhill
+**Email:** michael6gledhill\@gmail.com \| **Phone:** 2707741565 \| **LinkedIn:** [michael-gledhill-65a153389](https://www.linkedin.com/in/michael-gledhill-65a153389)
 
-**Email:** michael6gledhill@gmail.com | **Phone:** 2707741565 | **LinkedIn:** [michael-gledhill-65a153389](https://www.linkedin.com/in/michael-gledhill-65a153389)
-
----
+------------------------------------------------------------------------
 
 ## SUMMARY
 
 Disciplined, mission-focused leader with experience in aviation, emergency services, and structured team operations through the Civil Air Patrol. Proven ability to manage training programs, develop cadets, coordinate operations, and strengthen organizational readiness. Demonstrates high-reliability decision-making, technical problem-solving, and operational discipline.
 
----
+------------------------------------------------------------------------
 
 ## EDUCATION
 
-**Brigham Young University - Idaho Online**  
-Associate's degree in Computer Science | February 2024 - December 2032
+**Brigham Young University–Idaho (Online)**\
+Associate’s Degree, Computer Science (In Progress)\
+February 2024 – December 2032\
+**Current GPA:** 4.0
 
----
+**Homeschool Graduate (K–12)**\
+Completed a full K–12 homeschool program, developing strong self-management, discipline, and independent learning capabilities.
+
+------------------------------------------------------------------------
 
 ## EXPERIENCE
 
 ### Cadet Commander
-**Civil Air Patrol – Heartland Composite Squadron** | Elizabethtown, Kentucky  
+
+**Civil Air Patrol – Heartland Composite Squadron** \| Elizabethtown, Kentucky\
 June 2024 - Present
 
-- Led and mentored 30+ cadets, improving leadership development, emergency services readiness, and team performance; increased cadet advancement rates by 20% over 12 months
-- Directed weekly operations for 30–50 participants, coordinating training, instruction, safety, logistics, and mission-focused activities
-- Implemented structured progression and training plans, achieving 95% mission readiness compliance across squadron programs
-- Earned Student Pilot Certificate and soloed in a single-engine aircraft, completing 15+ solo flight hours
+-   Led and mentored 30+ cadets, improving leadership development, emergency services readiness, and team performance; increased cadet advancement rates by 20% over 12 months
+-   Directed weekly operations for 30–50 participants, coordinating training, instruction, safety, logistics, and mission-focused activities
+-   Implemented structured progression and training plans, achieving 95% mission readiness compliance across squadron programs
+-   Earned Student Pilot Certificate and soloed in a single-engine aircraft, completing 15+ solo flight hours
 
 ### 3D Printer Repair Specialist
-**Remote Care Partners Center** | Kentucky  
+
+**Remote Care Partners Center** \| Kentucky\
 September 2023 - June 2024
 
-- Repaired and maintained 30+ 3D printers, reducing equipment downtime by 30% and improving production reliability
-- Resolved 100+ technical issues across multiple printer models, ensuring consistent, high-quality medical device output
-- Collaborated with production and engineering teams to optimize printer workflows, accelerating device turnaround by 15% and supporting delivery of 100,000+ medical devices
+-   Repaired and maintained 30+ 3D printers, reducing equipment downtime by 30% and improving production reliability
+-   Resolved 100+ technical issues across multiple printer models, ensuring consistent, high-quality medical device output
+-   Collaborated with production and engineering teams to optimize printer workflows, accelerating device turnaround by 15% and supporting delivery of 100,000+ medical devices
 
----
+### **Independent Seller / Electronics Resale Business (eBay)**
+
+*Self-Employed \| 2023 – Present*
+
+-   Operate a small-scale resale business focused on harvesting and selling components from older versions of medical devices, including Raspberry Pis, speakers, motors, display modules, and other electronic parts.
+
+-   Evaluate, test, and prepare items for resale, maintaining consistent quality and accurate technical descriptions.
+
+-   Manage listings, customer communication, inventory control, and shipping logistics with a track record of reliable fulfillment.
+
+------------------------------------------------------------------------
 
 ## TOP SKILLS
 
-**Leadership & Development:**  
+**Leadership & Development:**\
 Leadership & Mentorship • Training & Operations Oversight • Cadet Development • Crisis Management
 
-**Operations & Management:**  
+**Operations & Management:**\
 Program Management & Planning • Organizational Coordination • Operational Discipline • Decision-Making
 
-**Technical Skills:**  
+**Technical Skills:**\
 Basic Python • Basic SQL • Computer Science Coursework
-
-
