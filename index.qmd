@@ -36,7 +36,7 @@ Hi, I'm **Michael Gledhill**, Cadet Commander at Civil Air Patrol's Heartland Co
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Project 1 | Description | [View](#) |
+| Photo Metadata App | Extract and organize photo metadata with an intuitive interface | [View](https://github.com/michael6gledhill/Photo_Metadata_App_By_Gledhill) |
 | Project 2 | Description | [View](#) |
 | Project 3 | Description | [View](#) |
 
@@ -51,9 +51,3 @@ I'm a disciplined, mission-focused leader with hands-on experience in aviation, 
 - **Aviation:** Student Pilot Certificate with 15+ solo flight hours in single-engine aircraft
 
 I'm pursuing opportunities where I can contribute to mission-focused teams while continuing to develop as a professional.
-
----
-
-## Contact & Connect
-
-📧 [michael6gledhill@gmail.com](mailto:michael6gledhill@gmail.com) • 📱 [(270) 774-1565](tel:2707741565) • 💼 [LinkedIn](https://www.linkedin.com/in/michael-gledhill-65a153389)
