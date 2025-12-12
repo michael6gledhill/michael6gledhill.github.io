@@ -67,58 +67,56 @@
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Civil Air Patrol",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Civil Air Patrol",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Civil Air Patrol",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
       "Project 1"
     ]
   },
   {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Story Telling",
-      "Project 2"
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 3"
     ]
   },
   {
@@ -368,178 +366,139 @@
     "text": "Recent Projects\nLinks to your latest projects, case studies, and portfolio work will be posted here.\n\n\n\nProject\nDescription\nLink\n\n\n\n\nPhoto Metadata App\nExtract and organize photo metadata with an intuitive interface\nView\n\n\nCyberPatriot Runbook\nCybersecurity operations and hardening procedures\nView\n\n\nProject 3\nDescription\nView\n\n\n\n\n\nAbout Me\nI’m a disciplined, mission-focused leader with hands-on experience in aviation, emergency services, and team operations. My background includes:\n\nLeadership: Leading 30+ cadets, managing weekly operations for 50+ participants, developing structured training programs\nTechnical Skills: 3D printer maintenance and troubleshooting, basic Python and SQL, computer science coursework\nAviation: Student Pilot Certificate with 15+ solo flight hours in single-engine aircraft\n\nI’m pursuing opportunities where I can contribute to mission-focused teams while continuing to develop as a professional."
   },
   {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
+    "objectID": "civil_air_patrol.html",
+    "href": "civil_air_patrol.html",
+    "title": "Civil Air Patrol",
+    "section": "",
+    "text": "I have been a member of the Civil Air Patrol for two and a half years and currently serve as the Cadet Commander of the Heartland Composite Squadron. I hold the rank of Cadet Captain, and I advanced on time every two months all the way up through my current grade.\nI completed my basic encampment in Florida during the 2022–2023 cycle, and I have since attended a total of three encampments and three National Cadet Special Activities. My time in CAP has focused on leadership development, aviation, emergency services, and guiding cadets through structured, mission-driven training."
+  },
+  {
+    "objectID": "civil_air_patrol.html#summary",
+    "href": "civil_air_patrol.html#summary",
+    "title": "Civil Air Patrol",
+    "section": "Summary",
+    "text": "Summary\nMotivated Civil Air Patrol cadet with strong leadership, cybersecurity, and aviation experience. Proven under pressure, highly driven, and committed to excellence. Passionate about aerospace, technology, and service. Aspires to become a U.S. Air Force pilot."
+  },
+  {
+    "objectID": "civil_air_patrol.html#contact-information",
+    "href": "civil_air_patrol.html#contact-information",
+    "title": "Civil Air Patrol",
+    "section": "Contact Information",
+    "text": "Contact Information\nMichael Gledhill | Cadet Captain, Civil Air Patrol\n906 Silktree Cir, Elizabethtown, KY 42701\n(502) 269-2525 | c_mgledhill@kywg.cap.gov"
+  },
+  {
+    "objectID": "civil_air_patrol.html#skills-certifications",
+    "href": "civil_air_patrol.html#skills-certifications",
+    "title": "Civil Air Patrol",
+    "section": "Skills & Certifications",
+    "text": "Skills & Certifications\nCyberPatriot:\nTeam Captain; National Semifinalist (2023 & 2024)\nCAP Certifications:\nGES, ICUT, SET, CERT, MRO, MSA, UDF, GTM3*\nFEMA ICS:\nIS-100, 200, 368, 520, 700, 800"
+  },
+  {
+    "objectID": "civil_air_patrol.html#awards-achievements",
+    "href": "civil_air_patrol.html#awards-achievements",
+    "title": "Civil Air Patrol",
+    "section": "Awards & Achievements",
+    "text": "Awards & Achievements\n\n2× Achievement Ribbons – CyberPatriot leadership & Encampment staff\n3× Encampment Ribbons, 3× NCSA Ribbons, Recruiter Ribbon, 2× Community Service Ribbons\nRocketry Badge, STEM Badge, Powered Solo Wings, Search and Rescue “Find”\nAFA Cadet of the Year"
+  },
+  {
+    "objectID": "civil_air_patrol.html#leadership-experience",
+    "href": "civil_air_patrol.html#leadership-experience",
+    "title": "Civil Air Patrol",
+    "section": "Leadership Experience",
+    "text": "Leadership Experience\nCivil Air Patrol Member | Since June 2023\nAdvanced quickly to C/Capt; earned honor credit through Mitchell Award. On track to be promoted to Captain on September 8.\nRoles Held: - Cadet Commander - Flight Commander - Public Affairs Officer - Aerospace & Communications NCO - Assistant Safety NCO - CAC Rep (Group & Wing)"
+  },
+  {
+    "objectID": "civil_air_patrol.html#encampment-experience",
+    "href": "civil_air_patrol.html#encampment-experience",
+    "title": "Civil Air Patrol",
+    "section": "Encampment Experience",
+    "text": "Encampment Experience\n\nATS Flight Commander – Ohio Wing Summer Encampment (2025)\nCadet Training Officer & PAO – Kentucky Wing Encampment (2025)\nGraduate – Florida Winter Encampment (2024)"
+  },
+  {
+    "objectID": "civil_air_patrol.html#national-activities",
+    "href": "civil_air_patrol.html#national-activities",
+    "title": "Civil Air Patrol",
+    "section": "National Activities",
+    "text": "National Activities\n\nPower Flight Academy (2025): ~9 hours logged, including solo – Fremont, NE\nAircraft Manufacturing Academy (2025) – Wichita, KS\nSUPT-FC (2025) – Columbus AFB, MS (Accepted–not able to attend)\nNational Blue Beret\nMultiple Cyber Academies\nSUPT-FC - TX"
+  },
+  {
+    "objectID": "civil_air_patrol.html#flight-experience",
+    "href": "civil_air_patrol.html#flight-experience",
+    "title": "Civil Air Patrol",
+    "section": "Flight Experience",
+    "text": "Flight Experience\n\nSporty’s Online Ground School completed\n3 CAP orientation flights (front/back seat)\nSoloed at Power Flight Academy"
+  },
+  {
+    "objectID": "civil_air_patrol.html#education",
+    "href": "civil_air_patrol.html#education",
+    "title": "Civil Air Patrol",
+    "section": "Education",
+    "text": "Education\nAcademic Status: Homeschooled with dual enrollment (12 college credits, 4.0 GPA)\nMath Completed: Pre-Algebra, Algebra I & II, Geometry, Business Math\nAge: 17"
+  },
+  {
+    "objectID": "civil_air_patrol.html#career-goals",
+    "href": "civil_air_patrol.html#career-goals",
+    "title": "Civil Air Patrol",
+    "section": "Career Goals",
+    "text": "Career Goals\nServe as a U.S. Air Force pilot. Interests include commercial aviation and aircraft systems or maintenance engineering."
+  },
+  {
+    "objectID": "civil_air_patrol.html#photo-gallery",
+    "href": "civil_air_patrol.html#photo-gallery",
+    "title": "Civil Air Patrol",
+    "section": "Photo Gallery",
+    "text": "Photo Gallery\n\n\n C-17 Full Motion Simulator\n\n\n I am third from the left in front.\n\n\n Me after my first solo (8 hours in)\n\n\n I am on the left next to a former CAP cadet who is now a major in the Air Force.\n\n\n Graduation from AMA"
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Civil Air Patrol",
       "Project 2"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Civil Air Patrol",
+      "Story Telling",
       "Project 1"
     ]
   },
   {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "Civil Air Patrol",
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "I have been a member of the Civil Air Patrol for two and a half years and currently serve as the Cadet Commander of the Heartland Composite Squadron. I hold the rank of Cadet Captain, and I advanced on time every two months all the way up through my current grade.\nI completed my basic encampment in Florida during the 2022–2023 cycle, and I have since attended a total of three encampments and three National Cadet Special Activities. My time in CAP has focused on leadership development, aviation, emergency services, and guiding cadets through structured, mission-driven training.",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Civil Air Patrol"
+      "Project 3"
     ]
   },
   {
-    "objectID": "cleansing.html#summary",
-    "href": "cleansing.html#summary",
-    "title": "Civil Air Patrol",
-    "section": "Summary",
-    "text": "Summary\nMotivated Civil Air Patrol cadet with strong leadership, cybersecurity, and aviation experience. Proven under pressure, highly driven, and committed to excellence. Passionate about aerospace, technology, and service. Aspires to become a U.S. Air Force pilot.",
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Civil Air Patrol"
+      "Project 4"
     ]
   },
   {
-    "objectID": "cleansing.html#contact-information",
-    "href": "cleansing.html#contact-information",
-    "title": "Civil Air Patrol",
-    "section": "Contact Information",
-    "text": "Contact Information\nMichael Gledhill | Cadet Captain, Civil Air Patrol\n906 Silktree Cir, Elizabethtown, KY 42701\n📱 (502) 269-2525 | 📧 c_mgledhill@kywg.cap.gov",
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Civil Air Patrol"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#skills-certifications",
-    "href": "cleansing.html#skills-certifications",
-    "title": "Civil Air Patrol",
-    "section": "Skills & Certifications",
-    "text": "Skills & Certifications\nCyberPatriot:\nTeam Captain; National Semifinalist (2023 & 2024)\nCAP Certifications:\nGES, ICUT, SET, CERT, MRO, MSA, UDF, GTM3*\nFEMA ICS:\nIS-100, 200, 368, 520, 700, 800",
-    "crumbs": [
-      "Civil Air Patrol"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#awards-achievements",
-    "href": "cleansing.html#awards-achievements",
-    "title": "Civil Air Patrol",
-    "section": "Awards & Achievements",
-    "text": "Awards & Achievements\n\n2× Achievement Ribbons – CyberPatriot leadership & Encampment staff\n3× Encampment Ribbons, 3× NCSA Ribbons, Recruiter Ribbon, 2× Community Service Ribbons\nRocketry Badge, STEM Badge, Powered Solo Wings, Search and Rescue “Find”\nAFA Cadet of the Year",
-    "crumbs": [
-      "Civil Air Patrol"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#leadership-experience",
-    "href": "cleansing.html#leadership-experience",
-    "title": "Civil Air Patrol",
-    "section": "Leadership Experience",
-    "text": "Leadership Experience\nCivil Air Patrol Member | Since June 2023\nAdvanced quickly to C/Capt; earned honor credit through Mitchell Award. On track to be promoted to Captain on September 8.\nRoles Held: - Cadet Commander - Flight Commander - Public Affairs Officer - Aerospace & Communications NCO - Assistant Safety NCO - CAC Rep (Group & Wing)",
-    "crumbs": [
-      "Civil Air Patrol"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#encampment-experience",
-    "href": "cleansing.html#encampment-experience",
-    "title": "Civil Air Patrol",
-    "section": "Encampment Experience",
-    "text": "Encampment Experience\n\nATS Flight Commander – Ohio Wing Summer Encampment (2025)\nCadet Training Officer & PAO – Kentucky Wing Encampment (2025)\nGraduate – Florida Winter Encampment (2024)",
-    "crumbs": [
-      "Civil Air Patrol"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#national-activities",
-    "href": "cleansing.html#national-activities",
-    "title": "Civil Air Patrol",
-    "section": "National Activities",
-    "text": "National Activities\n\nPower Flight Academy (2025): ~9 hours logged, including solo – Fremont, NE\nAircraft Manufacturing Academy (2025) – Wichita, KS\nSUPT-FC (2025) – Columbus AFB, MS (Accepted–not able to attend)\nNational Blue Beret\nMultiple Cyber Academies\nSUPT-FC - TX",
-    "crumbs": [
-      "Civil Air Patrol"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#flight-experience",
-    "href": "cleansing.html#flight-experience",
-    "title": "Civil Air Patrol",
-    "section": "Flight Experience",
-    "text": "Flight Experience\n\nSporty’s Online Ground School completed\n3 CAP orientation flights (front/back seat)\nSoloed at Power Flight Academy",
-    "crumbs": [
-      "Civil Air Patrol"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#education",
-    "href": "cleansing.html#education",
-    "title": "Civil Air Patrol",
-    "section": "Education",
-    "text": "Education\nAcademic Status: Homeschooled with dual enrollment (12 college credits, 4.0 GPA)\nMath Completed: Pre-Algebra, Algebra I & II, Geometry, Business Math\nAge: 17",
-    "crumbs": [
-      "Civil Air Patrol"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#career-goals",
-    "href": "cleansing.html#career-goals",
-    "title": "Civil Air Patrol",
-    "section": "Career Goals",
-    "text": "Career Goals\nServe as a U.S. Air Force pilot. Interests include commercial aviation and aircraft systems or maintenance engineering.",
-    "crumbs": [
-      "Civil Air Patrol"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#photo-gallery",
-    "href": "cleansing.html#photo-gallery",
-    "title": "Civil Air Patrol",
-    "section": "Photo Gallery",
-    "text": "Photo Gallery\n\n\n\n\n\nCivil Air Patrol Flight Operations\n\n\n\n\n\n\n\nWith CAP Pilot Instructor\n\n\n\n\n\n\n\nAir Force Dress Uniform\n\n\n\n\n\n\n\nSolo Flight Experience\n\n\n\n\n\n\n\nHeartland Composite Squadron Team",
-    "crumbs": [
-      "Civil Air Patrol"
+      "Project 5"
     ]
   },
   {
