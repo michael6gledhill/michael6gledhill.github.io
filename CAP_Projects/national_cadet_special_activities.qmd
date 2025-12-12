@@ -1,28 +1,78 @@
 ---
-title: "Client Report - [Insert Project Title]"
-subtitle: "Course DS 250"
-author: "[STUDENT NAME]"
-format:
-  html:
-    self-contained: true
-    page-layout: full
-    title-block-banner: true
-    toc: true
-    toc-depth: 3
-    toc-location: body
-    number-sections: false
-    html-math-method: katex
-    code-fold: true
-    code-summary: "Show the code"
-    code-overflow: wrap
-    code-copy: hover
-    code-tools:
-        source: false
-        toggle: true
-        caption: See code
-execute: 
-  warning: false
-    
+title: "National Cadet Special Activities (NCSAs)"
+subtitle: "Advanced Training & Aerospace Excellence"
 ---
 
-### Paste in a template
+## Introduction
+
+National Cadet Special Activities (NCSAs) are advanced, week-long or multi-week programs designed to give cadets hands-on experience in leadership, aviation, aerospace, STEM, and emergency services. These programs allow cadets to expand their skills, network with peers nationwide, and experience specialized training beyond the squadron and encampment level. NCSAs represent some of the highest-level training opportunities available within the Civil Air Patrol cadet program.
+
+---
+
+## NCSA History
+
+### 1. National Power Flight Academy
+
+| Field | Details |
+|-------|---------|
+| **Year** | 2024 |
+| **Location** | Fremont, Nebraska |
+| **Program Focus** | Flight Training & Aviation Operations |
+| **Duration** | One week |
+| **Role / Activities** | Participant in structured flight training program |
+| **Description** | Completed comprehensive flight training including classroom instruction on aerodynamics, aircraft systems, and flight procedures. Accumulated approximately 9 hours of flight time in single-engine aircraft, including one solo flight. Gained hands-on experience in aircraft pre-flight checks, takeoff, landing, and in-flight procedures. |
+| **Key Achievements** | Earned Powered Solo Wings certification; demonstrated proficiency in aircraft handling and decision-making under instruction. |
+| **Impact** | Advanced my skills toward Private Pilot Certificate and reinforced commitment to aviation career. |
+| **Rating** | 5 / 5 |
+
+### 2. Aircraft Manufacturing Academy
+
+| Field | Details |
+|-------|---------|
+| **Year** | 2025 |
+| **Location** | Wichita, Kansas |
+| **Program Focus** | Aerospace Manufacturing & Engineering |
+| **Duration** | One week |
+| **Role / Activities** | Participant in manufacturing and engineering program |
+| **Description** | Attended specialized training focused on aircraft systems, manufacturing processes, and aerospace engineering. Participated in hands-on technical projects exploring production workflows, aircraft assembly techniques, and aerospace design principles. Toured manufacturing facilities and learned from aerospace engineering professionals. |
+| **Key Achievements** | Gained comprehensive understanding of how aircraft are designed, built, and tested; developed appreciation for aerospace manufacturing complexity. |
+| **Impact** | Broadened career perspective to include engineering and manufacturing roles in aerospace industry. |
+| **Rating** | 5 / 5 |
+
+### 3. Specialized Undergraduate Pilot Training (SUPT)
+
+| Field | Details |
+|-------|---------|
+| **Year** | 2025 |
+| **Location** | Columbus Air Force Base, Mississippi |
+| **Program Focus** | Advanced Pilot Training & U.S. Air Force Operations |
+| **Duration** | One week |
+| **Role / Activities** | Selected participant in pilot training orientation |
+| **Description** | Selected from competitive national pool to participate in advanced pilot training activities at an active U.S. Air Force base. Gained exposure to U.S. Air Force pilot operations, advanced flight systems, and military aviation procedures. Networked with Air Force pilots and experienced active-duty military culture firsthand. |
+| **Key Achievements** | Selection from national competition; direct exposure to U.S. Air Force operations and career pathway. |
+| **Impact** | Reinforced commitment to U.S. Air Force pilot career; provided clarity on military aviation requirements and expectations. |
+| **Rating** | 5 / 5 |
+
+---
+
+## Key Skills Developed Through NCSAs
+
+- **Aviation & Flight Operations** – Hands-on experience with aircraft systems and procedures
+- **Technical Problem-Solving** – Manufacturing processes and aerospace engineering concepts
+- **Professional Discipline** – Military environment and expectations
+- **Leadership & Networking** – Interaction with national cadet peers and aviation professionals
+- **Decision-Making Under Pressure** – Real-world flight and operational scenarios
+
+---
+
+## Reflection
+
+Participation in these three National Cadet Special Activities has been transformative in my development as a cadet and aspiring aviator. These programs have:
+
+- **Deepened my knowledge of aviation and aerospace** through hands-on experience and professional instruction
+- **Strengthened my technical skills** in aircraft systems, manufacturing, and flight operations
+- **Prepared me for future leadership roles** within Civil Air Patrol and the U.S. Air Force
+- **Expanded my professional network** through connections with cadets, pilots, and aerospace professionals nationwide
+- **Clarified my career pathway** by providing direct exposure to military aviation and engineering opportunities
+
+These experiences are instrumental in achieving my ultimate goal: to serve as a U.S. Air Force pilot. The knowledge, skills, and professional relationships developed through NCSAs continue to guide my decisions and inspire my commitment to excellence.
