@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Michael Gledhill - Data Science Portfolio"
-  favicon: Images/favicon.png
+  favicon: Images/profile.png
   back-to-top-navigation: true
   repo-url: https://github.com/username/username.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
