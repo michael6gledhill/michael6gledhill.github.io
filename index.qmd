@@ -7,7 +7,7 @@ subtitle: "Leadership • Aviation • Technical Problem-Solving"
 
 :::{.g-col-12 .g-col-md-4}
 
-![](Images/profile.jpg){.img-fluid .rounded-circle style="max-width: 300px; max-height: 300px; width: 300px; height: 300px; object-fit: cover;"}
+![](Images/profile.jpg){.img-fluid .rounded-circle style="max-width: 200px; max-height: 200px; width: 200px; height: 200px; object-fit: cover;"}
 
 ### Quick Links
 
@@ -51,3 +51,9 @@ I'm a disciplined, mission-focused leader with hands-on experience in aviation, 
 - **Aviation:** Student Pilot Certificate with 15+ solo flight hours in single-engine aircraft
 
 I'm pursuing opportunities where I can contribute to mission-focused teams while continuing to develop as a professional.
+
+---
+
+## Contact & Connect
+
+📧 [michael6gledhill@gmail.com](mailto:michael6gledhill@gmail.com) • 📱 [(270) 774-1565](tel:2707741565) • 💼 [LinkedIn](https://www.linkedin.com/in/michael-gledhill-65a153389)

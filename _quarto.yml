@@ -12,8 +12,14 @@ website:
     border: true
     left: "Michael Gledhill 2025©"
     right: 
+      - icon: envelope
+        href: mailto:michael6gledhill@gmail.com
+      - icon: telephone
+        href: tel:2707741565
       - icon: linkedin
-        href: www.linkedin.com/in/michael-gledhill-65a153389
+        href: https://www.linkedin.com/in/michael-gledhill-65a153389
+      - icon: github
+        href: https://github.com/michael6gledhill
 
   navbar:
     background: primary
